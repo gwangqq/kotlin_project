@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Kotlin_Project</string>
+    <string name="app_name">Love Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_title">Let\'s find out \n your love type</string>
 </resources>
